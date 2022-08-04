@@ -19,7 +19,7 @@ $ cd dump
 
 $ git pull
 
-$ python kontol.py
+$ python dump.py
 ## Make dong follow kaga asu lah..!
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
