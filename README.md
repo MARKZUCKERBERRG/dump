@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+MarkZuckerberg+Jangan+Lupa+Follow)](https://git.io/typing-svg)
 
-## Hasil
+## tampilan
+[![Screenshot-20220804-141753.png](https://i.postimg.cc/HjGn9LhS/Screenshot-20220804-141753.png)](https://postimg.cc/dZBJqJvd)
 
 
 
