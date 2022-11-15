@@ -13,6 +13,8 @@ $ python -m pip install requests
 
 $ python -m pip install bs4
 
+$ rm -rf dump
+
 $ git clone https://github.com/MARKZUCKERBERRG/dump
 
 $ cd dump
